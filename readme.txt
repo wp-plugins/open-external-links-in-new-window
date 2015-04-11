@@ -3,6 +3,8 @@ Requires at least: 3.0
 Tested up to: 4.1.1
 Author: Keef
 Version: 1.0.0
+Contributors: Keef
+Stable tag: trunk
 Plugin URI: http://www.irydian.com/shop/wordpress/plugins/open-external-links-in-new-windows/
 Tags: open in new window, external links, external URLs, external websites
 Donate link: http://www.irydian.com/shop/wordpress/plugins/open-external-links-in-new-windows/
