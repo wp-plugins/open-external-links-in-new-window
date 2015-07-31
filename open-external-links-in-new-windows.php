@@ -4,7 +4,7 @@ Plugin Name: Open External Links In New Windows
 Plugin URI: http://www.irydian.com/shop/wordpress/plugins/open-external-links-in-new-windows/
 Description: Opens links to external websites in new windows.
 Author: Keef
-Version: 1.0.0
+Version: 1.0.0 
 
 This software is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
