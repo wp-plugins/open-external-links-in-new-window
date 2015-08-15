@@ -1,6 +1,6 @@
 === Open External Links In New Windows ===
 Requires at least: 3.0
-Tested up to: 4.2.3
+Tested up to: 4.2.4
 Author: Keef
 Version: 1.0.0
 Contributors: Keef
